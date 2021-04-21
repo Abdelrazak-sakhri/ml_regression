@@ -1,4 +1,4 @@
 streamlit==0.69.2
 gunicorn == 20.1.0
 itsdangerous == 1.1.0
-sklearn == 0.20.4
+sklearn == 0.0
